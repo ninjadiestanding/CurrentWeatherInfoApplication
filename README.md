@@ -8,8 +8,8 @@ The program allows you to get data on the current weather in a given city.
 
 To run this project, you will need:
 
-Visual Studio 2019 version 16.10 or newer
-.NET 6 or newer
+* Visual Studio 2019 version 16.10 or newer
+* .NET 6 or newer
 
 # Installation
 
