@@ -25,6 +25,6 @@ To run this project, you will need:
 3. Enter the name of the city you are interested in and click on the **"Request"** button
 4. Completed. You have received weather data for a given city
 
-# Authors
+# Author
 
 Emil Khasanov
