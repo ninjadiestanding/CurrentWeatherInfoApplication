@@ -1,7 +1,5 @@
 # CurrentWeatherInfoApplication
 
-CurrentWeatherInfoApplication
-
 # Description
 
 The program allows you to get data on the current weather in a given city.
@@ -10,9 +8,8 @@ The program allows you to get data on the current weather in a given city.
 
 To run this project, you will need:
 
-Visual Studio 2019 or newer
-.NET Framework 4.7.2 or newer
-[Any additional requirements, if applicable]
+Visual Studio 2019 version 16.10 or newer
+.NET 6 or newer
 
 # Installation
 
